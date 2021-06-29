@@ -24,6 +24,7 @@ http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 
 5. SPRING
 http://localhost:8080/swagger-ui/
+http://localhost:8080/v3/api-docs
 
 6. SPRING
 http://localhost:8080/swagger-ui/
