@@ -1,11 +1,13 @@
-# START
+# START FIVE APPLICATION
 
-## ENVIROMENTAL
+## Evnviromental setups
 
 npm install --save nuxt
+mvn clean package
+mvn spring-boot:run
 
-## ROUTES
-
+## Routes
+```
 1. Demo-Japanese-Nuxt
 http://localhost:8080 
 http://localhost:8080/swagger-ui.html
@@ -25,10 +27,10 @@ http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 5. SPRING
 http://localhost:8080/swagger-ui/
 http://localhost:8080/v3/api-docs
-
-6. SPRING
 http://localhost:8080/swagger-ui/
-
+http://localhost:8080/
+http://localhost:8080/
+```
 
 ## OTHERS
 https://github.com/rookieceo/demo
